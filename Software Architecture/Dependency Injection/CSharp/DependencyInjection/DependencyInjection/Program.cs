@@ -10,6 +10,7 @@ namespace DependencyInjection
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HelloWorld!!!");
         }
     }
 }
