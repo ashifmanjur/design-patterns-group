@@ -1,0 +1,26 @@
+Importent Links:
+================
+
+* Design patterns:
+http://en.wikipedia.org/wiki/Software_design_pattern
+
+* Architectural patterns:
+http://en.wikipedia.org/wiki/Software_Architecture_styles_and_patterns
+
+* GoF patterns introduction:
+http://www.gofpatterns.com
+
+* SOLID OOP principles:
+http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
+
+* Information source on the Web on such software development topics as design patterns, refactoring and UML:
+http://sourcemaking.com
+
+
+
+Reference Books:
+================
+
+http://www.goodreads.com/book/show/85009.Design_Patterns
+http://www.goodreads.com/book/show/58128.Head_First_Design_Patterns
+http://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture
